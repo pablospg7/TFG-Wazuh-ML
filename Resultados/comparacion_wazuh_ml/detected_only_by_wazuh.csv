@@ -1,0 +1,415 @@
+text,real,ml_pred,wazuh_pred
+Feb 17 17:03:12 ubuntu-victima sshd[3228]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 16 18:28:33 ubuntu-victima sshd[3042]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:06:49 ubuntu-victima sshd[3344]: Failed password for vboxuser from 192.168.1.50 port 38800 ssh2  vboxuser ,0,0,1
+Feb 17 13:35:43 ubuntu-victima sshd[4817]: Disconnecting authenticating user root 192.168.1.50 port 44878: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:28:19 ubuntu-victima sshd[3035]: Failed password for root from 192.168.1.50 port 57484 ssh2  root ,0,0,1
+Feb 16 18:16:57 ubuntu-victima sshd[2732]: Failed password for root from 192.168.1.50 port 55538 ssh2  root ,0,0,1
+Feb 16 18:20:55 ubuntu-victima sshd[2845]: Failed password for root from 192.168.1.50 port 35824 ssh2  root ,0,0,1
+Feb 17 17:24:22 ubuntu-victima sshd[3854]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 17:14:52 ubuntu-victima sshd[3563]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 17:22:04 ubuntu-victima sshd[3774]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,0,1
+Feb 16 18:28:39 ubuntu-victima sshd[3040]: Failed password for root from 192.168.1.50 port 44808 ssh2  root ,0,0,1
+Feb 16 17:59:13 ubuntu-victima sshd[1906]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:45:29 ubuntu-victima sshd[3513]: Failed password for root from 192.168.1.50 port 54730 ssh2  root ,0,0,1
+Feb 17 17:27:10 ubuntu-victima sshd[3937]: Failed password for vboxuser from 192.168.1.50 port 59214 ssh2  vboxuser ,0,0,1
+Feb 17 17:12:42 ubuntu-victima sshd[3510]: Failed password for vboxuser from 192.168.1.50 port 54098 ssh2  vboxuser ,0,0,1
+Feb 17 17:15:12 ubuntu-victima sshd[3575]: Failed password for vboxuser from 192.168.1.50 port 60366 ssh2  vboxuser ,0,0,1
+Feb 17 17:03:46 ubuntu-victima sshd[3242]: Disconnecting authenticating user vboxuser 192.168.1.50 port 51148: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:04:54 ubuntu-victima sshd[3281]: Failed password for vboxuser from 192.168.1.50 port 49688 ssh2  vboxuser ,0,0,1
+Feb 17 17:13:23 ubuntu-victima sshd[3522]: Failed password for vboxuser from 192.168.1.50 port 51558 ssh2  vboxuser ,0,0,1
+Feb 17 17:21:20 ubuntu-victima sshd[3764]: Failed password for vboxuser from 192.168.1.50 port 32876 ssh2  vboxuser ,0,0,1
+Feb 16 18:26:43 ubuntu-victima sshd[2979]: Disconnecting authenticating user root 192.168.1.50 port 44768: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:44:01 ubuntu-victima sshd[3462]: Disconnecting authenticating user root 192.168.1.50 port 40392: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 13:37:14 ubuntu-victima sshd[5374]: Failed password for root from 192.168.1.50 port 43702 ssh2  root ,0,0,1
+Feb 17 17:06:26 ubuntu-victima sshd[3340]: Failed password for vboxuser from 192.168.1.50 port 59158 ssh2  vboxuser ,0,0,1
+Feb 17 17:21:16 ubuntu-victima sshd[3758]: Failed password for vboxuser from 192.168.1.50 port 37568 ssh2  vboxuser ,0,0,1
+Feb 17 12:34:56 ubuntu-victima sshd[4126]: Failed password for root from 192.168.1.50 port 53878 ssh2  root ,0,0,1
+Feb 17 13:33:28 ubuntu-victima sshd[4754]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:17:31 ubuntu-victima sshd[3649]: Failed password for vboxuser from 192.168.1.50 port 56446 ssh2  vboxuser ,0,0,1
+Feb 16 18:52:37 ubuntu-victima sshd[3710]: Failed password for root from 192.168.1.50 port 33494 ssh2  root ,0,0,1
+Feb 17 17:12:17 ubuntu-victima sshd[3498]: Failed password for vboxuser from 192.168.1.50 port 35622 ssh2  vboxuser ,0,0,1
+Feb 16 18:06:30 ubuntu-victima sshd[2403]: Failed password for root from 192.168.1.50 port 50826 ssh2  root ,0,0,1
+Feb 16 18:28:35 ubuntu-victima sshd[3035]: Disconnecting authenticating user root 192.168.1.50 port 57484: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 11:15:57 ubuntu-victima sshd[2862]: Failed password for root from 192.168.1.50 port 34238 ssh2  root ,0,0,1
+Feb 16 17:58:13 ubuntu-victima sshd[1877]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:22:34 ubuntu-victima sshd[3793]: Failed password for vboxuser from 192.168.1.50 port 37174 ssh2  vboxuser ,0,0,1
+Feb 16 18:51:50 ubuntu-victima sshd[3694]: Failed password for root from 192.168.1.50 port 52886 ssh2  root ,0,0,1
+Feb 16 17:57:23 ubuntu-victima sshd[1856]: Failed password for root from 192.168.1.50 port 36598 ssh2  root ,0,0,1
+Feb 17 17:07:49 ubuntu-victima sshd[3368]: Failed password for vboxuser from 192.168.1.50 port 37998 ssh2  vboxuser ,0,0,1
+Feb 17 17:19:35 ubuntu-victima sshd[3713]: Failed password for vboxuser from 192.168.1.50 port 49316 ssh2  vboxuser ,0,0,1
+Feb 16 18:31:25 ubuntu-victima sshd[3119]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 12:36:00 ubuntu-victima sshd[4158]: Failed password for root from 192.168.1.50 port 40338 ssh2  root ,0,0,1
+Feb 16 18:06:22 ubuntu-victima sshd[2405]: Failed password for root from 192.168.1.50 port 42710 ssh2  root ,0,0,1
+Feb 17 17:15:27 ubuntu-victima sshd[3582]: Failed password for vboxuser from 192.168.1.50 port 37644 ssh2  vboxuser ,0,0,1
+Feb 16 18:21:49 ubuntu-victima sshd[2863]: Failed password for root from 192.168.1.50 port 40720 ssh2  root ,0,0,1
+Feb 17 17:13:44 ubuntu-victima sshd[3541]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 17:06:16 ubuntu-victima sshd[3332]: Failed password for vboxuser from 192.168.1.50 port 49364 ssh2  vboxuser ,0,0,1
+Feb 17 13:25:52 ubuntu-victima sshd[4517]: Failed password for root from 192.168.1.50 port 33858 ssh2  root ,0,0,1
+Feb 17 17:04:50 ubuntu-victima sshd[3279]: Failed password for vboxuser from 192.168.1.50 port 49680 ssh2  vboxuser ,0,0,1
+Feb 16 18:24:14 ubuntu-victima sshd[2918]: Disconnecting authenticating user root 192.168.1.50 port 38386: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:23:52 ubuntu-victima sshd[3829]: Failed password for vboxuser from 192.168.1.50 port 35596 ssh2  vboxuser ,0,0,1
+Feb 17 17:25:37 ubuntu-victima sshd[3893]: Failed password for vboxuser from 192.168.1.50 port 50332 ssh2  vboxuser ,0,0,1
+Feb 17 17:22:32 ubuntu-victima sshd[3789]: Failed password for vboxuser from 192.168.1.50 port 55564 ssh2  vboxuser ,0,0,1
+Feb 17 17:18:12 ubuntu-victima sshd[3673]: Failed password for vboxuser from 192.168.1.50 port 57280 ssh2  vboxuser ,0,0,1
+Feb 16 17:57:51 ubuntu-victima sshd[1867]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 17:57:49 ubuntu-victima sshd[1861]: Failed password for root from 192.168.1.50 port 38120 ssh2  root ,0,0,1
+Feb 16 18:17:08 ubuntu-victima sshd[2736]: Failed password for root from 192.168.1.50 port 39566 ssh2  root ,0,0,1
+Feb 17 13:30:38 ubuntu-victima sshd[4671]: Failed password for root from 192.168.1.50 port 59386 ssh2  root ,0,0,1
+Feb 16 18:49:04 ubuntu-victima sshd[3612]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:17:31 ubuntu-victima sshd[3645]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 16 17:58:47 ubuntu-victima sshd[1888]: Failed password for root from 192.168.1.50 port 58134 ssh2  root ,0,0,1
+Feb 17 12:37:59 ubuntu-victima sshd[4224]: Failed password for root from 192.168.1.50 port 52080 ssh2  root ,0,0,1
+Feb 17 17:03:08 ubuntu-victima sshd[3226]: Failed password for vboxuser from 192.168.1.50 port 37624 ssh2  vboxuser ,0,0,1
+Feb 17 17:17:39 ubuntu-victima sshd[3653]: Failed password for vboxuser from 192.168.1.50 port 56466 ssh2  vboxuser ,0,0,1
+Feb 16 18:06:30 ubuntu-victima sshd[2401]: Failed password for root from 192.168.1.50 port 50824 ssh2  root ,0,0,1
+Feb 17 13:31:17 ubuntu-victima sshd[4685]: Disconnecting authenticating user root 192.168.1.50 port 59694: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:09:01 ubuntu-victima sshd[3397]: Failed password for vboxuser from 192.168.1.50 port 55184 ssh2  vboxuser ,0,0,1
+Feb 16 18:37:59 ubuntu-victima sshd[3302]: Failed password for root from 192.168.1.50 port 57594 ssh2  root ,0,0,1
+Feb 17 12:35:17 ubuntu-victima sshd[4140]: Failed password for root from 192.168.1.50 port 57594 ssh2  root ,0,0,1
+Feb 17 17:03:28 ubuntu-victima sshd[3234]: Disconnecting authenticating user vboxuser 192.168.1.50 port 56990: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 13:30:18 ubuntu-victima sshd[4652]: Failed password for root from 192.168.1.50 port 33128 ssh2  root ,0,0,1
+Feb 16 17:57:04 ubuntu-victima sshd[1842]: Failed password for root from 192.168.1.50 port 36058 ssh2  root ,0,0,1
+Feb 17 17:11:43 ubuntu-victima sshd[3476]: Failed password for vboxuser from 192.168.1.50 port 47530 ssh2  vboxuser ,0,0,1
+Feb 16 18:28:28 ubuntu-victima sshd[3040]: Failed password for root from 192.168.1.50 port 44808 ssh2  root ,0,0,1
+Feb 16 18:09:22 ubuntu-victima sshd[2491]: Failed password for root from 192.168.1.50 port 43470 ssh2  root ,0,0,1
+Feb 16 18:54:37 ubuntu-victima sshd[3766]: Failed password for root from 192.168.1.50 port 38552 ssh2  root ,0,0,1
+Feb 17 11:15:39 ubuntu-victima sshd[2854]: Failed password for root from 192.168.1.50 port 53930 ssh2  root ,0,0,1
+Feb 17 13:29:00 ubuntu-victima sshd[4614]: Failed password for root from 192.168.1.50 port 60614 ssh2  root ,0,0,1
+Feb 17 11:16:26 ubuntu-victima sshd[2868]: Failed password for root from 192.168.1.50 port 55994 ssh2  root ,0,0,1
+Feb 17 12:30:45 ubuntu-victima sshd[4004]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:47:31 ubuntu-victima sshd[3565]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:10:37 ubuntu-victima sshd[2524]: Failed password for root from 192.168.1.50 port 54432 ssh2  root ,0,0,1
+Feb 16 17:58:02 ubuntu-victima sshd[1865]: Failed password for root from 192.168.1.50 port 39804 ssh2  root ,0,0,1
+Feb 16 18:10:39 ubuntu-victima sshd[2526]: Failed password for root from 192.168.1.50 port 54446 ssh2  root ,0,0,1
+Feb 17 13:30:42 ubuntu-victima sshd[4673]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 13:28:05 ubuntu-victima sshd[4571]: Failed password for root from 192.168.1.50 port 47218 ssh2  root ,0,0,1
+Feb 16 18:19:04 ubuntu-victima sshd[2778]: Disconnecting authenticating user root 192.168.1.50 port 54312: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:55:27 ubuntu-victima sshd[3787]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:06:38 ubuntu-victima sshd[2414]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:27:50 ubuntu-victima sshd[3958]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 13:32:25 ubuntu-victima sshd[4719]: Disconnecting authenticating user root 192.168.1.50 port 48810: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:53:33 ubuntu-victima sshd[3734]: Failed password for root from 192.168.1.50 port 46444 ssh2  root ,0,0,1
+Feb 16 18:46:00 ubuntu-victima sshd[3526]: Failed password for root from 192.168.1.50 port 52704 ssh2  root ,0,0,1
+Feb 16 18:08:42 ubuntu-victima sshd[2464]: Failed password for root from 192.168.1.50 port 47622 ssh2  root ,0,0,1
+Feb 17 12:01:55 ubuntu-victima sshd[3787]: Disconnecting authenticating user root 192.168.1.50 port 36290: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:53:43 ubuntu-victima sshd[3736]: Failed password for root from 192.168.1.50 port 33518 ssh2  root ,0,0,1
+Feb 17 17:18:45 ubuntu-victima sshd[3687]: Failed password for vboxuser from 192.168.1.50 port 53408 ssh2  vboxuser ,0,0,1
+Feb 16 17:57:08 ubuntu-victima sshd[1842]: Disconnecting authenticating user root 192.168.1.50 port 36058: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:42:29 ubuntu-victima sshd[3422]: Disconnecting authenticating user root 192.168.1.50 port 49596: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:27:52 ubuntu-victima sshd[3021]: Failed password for root from 192.168.1.50 port 59424 ssh2  root ,0,0,1
+Feb 17 17:17:25 ubuntu-victima sshd[3647]: Failed password for vboxuser from 192.168.1.50 port 38718 ssh2  vboxuser ,0,0,1
+Feb 16 18:35:00 ubuntu-victima sshd[3220]: Failed password for root from 192.168.1.50 port 54686 ssh2  root ,0,0,1
+Feb 17 12:09:31 ubuntu-victima sshd[3839]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 13:32:25 ubuntu-victima sshd[4713]: Disconnecting authenticating user root 192.168.1.50 port 48786: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:10:03 ubuntu-victima sshd[2506]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:32:40 ubuntu-victima sshd[3145]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 13:37:22 ubuntu-victima sshd[5376]: Failed password for root from 192.168.1.50 port 43710 ssh2  root ,0,0,1
+Feb 16 18:37:32 ubuntu-victima sshd[3294]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 17:58:34 ubuntu-victima sshd[1877]: Failed password for root from 192.168.1.50 port 41012 ssh2  root ,0,0,1
+Feb 17 12:27:38 ubuntu-victima sshd[3908]: Failed password for root from 192.168.1.50 port 53258 ssh2  root ,0,0,1
+Feb 17 11:15:55 ubuntu-victima sshd[2852]: Disconnecting authenticating user root 192.168.1.50 port 53928: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 12:33:56 ubuntu-victima sshd[4090]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:10:27 ubuntu-victima sshd[3439]: Disconnecting authenticating user vboxuser 192.168.1.50 port 36250: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:21:58 ubuntu-victima sshd[3778]: Failed password for vboxuser from 192.168.1.50 port 56410 ssh2  vboxuser ,0,0,1
+Feb 16 18:48:24 ubuntu-victima sshd[3590]: Failed password for root from 192.168.1.50 port 54908 ssh2  root ,0,0,1
+Feb 17 17:25:17 ubuntu-victima sshd[3880]: Failed password for vboxuser from 192.168.1.50 port 50060 ssh2  vboxuser ,0,0,1
+Feb 17 12:35:03 ubuntu-victima sshd[4122]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 13:36:19 ubuntu-victima sshd[4836]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:09:23 ubuntu-victima sshd[3405]: Failed password for vboxuser from 192.168.1.50 port 49854 ssh2  vboxuser ,0,0,1
+Feb 17 13:26:37 ubuntu-victima sshd[4537]: Failed password for root from 192.168.1.50 port 46770 ssh2  root ,0,0,1
+Feb 17 17:26:01 ubuntu-victima sshd[3904]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 13:31:05 ubuntu-victima sshd[4685]: Failed password for root from 192.168.1.50 port 59694 ssh2  root ,0,0,1
+Feb 17 17:23:42 ubuntu-victima sshd[3825]: Disconnecting authenticating user vboxuser 192.168.1.50 port 35582: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:18:39 ubuntu-victima sshd[2771]: Failed password for root from 192.168.1.50 port 54656 ssh2  root ,0,0,1
+Feb 16 18:54:13 ubuntu-victima sshd[3750]: Failed password for root from 192.168.1.50 port 46434 ssh2  root ,0,0,1
+Feb 16 18:13:12 ubuntu-victima sshd[2587]: Failed password for root from 192.168.1.50 port 49768 ssh2  root ,0,0,1
+Feb 16 18:14:34 ubuntu-victima sshd[2663]: Failed password for root from 192.168.1.50 port 52476 ssh2  root ,0,0,1
+Feb 16 17:58:02 ubuntu-victima sshd[1865]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 12:32:31 ubuntu-victima sshd[4062]: Failed password for root from 192.168.1.50 port 54216 ssh2  root ,0,0,1
+Feb 16 18:37:12 ubuntu-victima sshd[3282]: Failed password for root from 192.168.1.50 port 35094 ssh2  root ,0,0,1
+Feb 17 13:35:37 ubuntu-victima sshd[4815]: Failed password for root from 192.168.1.50 port 44872 ssh2  root ,0,0,1
+Feb 17 12:02:00 ubuntu-victima sshd[3794]: Failed password for root from 192.168.1.50 port 43160 ssh2  root ,0,0,1
+Feb 17 12:30:10 ubuntu-victima sshd[3974]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:20:26 ubuntu-victima sshd[2824]: Failed password for root from 192.168.1.50 port 34162 ssh2  root ,0,0,1
+Feb 16 18:21:11 ubuntu-victima sshd[2845]: Disconnecting authenticating user root 192.168.1.50 port 35824: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 13:33:14 ubuntu-victima sshd[4750]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:08:42 ubuntu-victima sshd[3390]: Failed password for vboxuser from 192.168.1.50 port 49378 ssh2  vboxuser ,0,0,1
+Feb 16 18:19:34 ubuntu-victima sshd[2793]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:03:47 ubuntu-victima sshd[3246]: Failed password for vboxuser from 192.168.1.50 port 51180 ssh2  vboxuser ,0,0,1
+Feb 16 17:59:22 ubuntu-victima sshd[1904]: Failed password for root from 192.168.1.50 port 45080 ssh2  root ,0,0,1
+Feb 16 18:14:36 ubuntu-victima sshd[2659]: Disconnecting authenticating user root 192.168.1.50 port 52466: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:03:50 ubuntu-victima sshd[3255]: Failed password for vboxuser from 192.168.1.50 port 45732 ssh2  vboxuser ,0,0,1
+Feb 17 17:03:38 ubuntu-victima sshd[3248]: Failed password for vboxuser from 192.168.1.50 port 51196 ssh2  vboxuser ,0,0,1
+Feb 16 18:09:16 ubuntu-victima sshd[2484]: Failed password for root from 192.168.1.50 port 58824 ssh2  root ,0,0,1
+Feb 16 18:44:31 ubuntu-victima sshd[3478]: Failed password for root from 192.168.1.50 port 57920 ssh2  root ,0,0,1
+Feb 17 13:25:29 ubuntu-victima sshd[4499]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:11:28 ubuntu-victima sshd[3470]: Failed password for vboxuser from 192.168.1.50 port 42086 ssh2  vboxuser ,0,0,1
+Feb 16 17:56:03 ubuntu-victima sshd[1683]: Failed password for root from 192.168.1.50 port 52364 ssh2  root ,0,0,1
+Feb 16 17:58:13 ubuntu-victima sshd[1877]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:21:20 ubuntu-victima sshd[3762]: Failed password for vboxuser from 192.168.1.50 port 32864 ssh2  vboxuser ,0,0,1
+Feb 17 17:03:01 ubuntu-victima sshd[3230]: Failed password for vboxuser from 192.168.1.50 port 47186 ssh2  vboxuser ,0,0,1
+[Thu Feb 26 11:08:13.366151 2026] [authz_core:error] [pid 1015:tid 139165345748672] [client 192.168.1.50:50008] AH01630: client denied by server configuration: /var/www/html/.hta     ,0,0,1
+Feb 17 13:34:44 ubuntu-victima sshd[4788]: Failed password for root from 192.168.1.50 port 47164 ssh2  root ,0,0,1
+Feb 17 13:31:17 ubuntu-victima sshd[4681]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:27:56 ubuntu-victima sshd[3027]: Failed password for root from 192.168.1.50 port 44560 ssh2  root ,0,0,1
+Feb 17 17:25:09 ubuntu-victima sshd[3885]: Failed password for vboxuser from 192.168.1.50 port 50070 ssh2  vboxuser ,0,0,1
+Feb 17 17:19:35 ubuntu-victima sshd[3713]: Failed password for vboxuser from 192.168.1.50 port 49316 ssh2  vboxuser ,0,0,1
+Feb 16 18:53:44 ubuntu-victima sshd[3736]: Failed password for root from 192.168.1.50 port 33518 ssh2  root ,0,0,1
+Feb 17 13:28:07 ubuntu-victima sshd[4571]: Disconnecting authenticating user root 192.168.1.50 port 47218: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:37:01 ubuntu-victima sshd[3272]: Failed password for root from 192.168.1.50 port 36634 ssh2  root ,0,0,1
+Feb 16 18:35:58 ubuntu-victima sshd[3243]: Disconnecting authenticating user root 192.168.1.50 port 55768: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 13:27:14 ubuntu-victima sshd[4555]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 12:36:21 ubuntu-victima sshd[4168]: Failed password for root from 192.168.1.50 port 60444 ssh2  root ,0,0,1
+Feb 16 18:33:40 ubuntu-victima sshd[3187]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:51:45 ubuntu-victima sshd[3686]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:11:46 ubuntu-victima sshd[2551]: Failed password for root from 192.168.1.50 port 34902 ssh2  root ,0,0,1
+Feb 16 17:59:13 ubuntu-victima sshd[1904]: Failed password for root from 192.168.1.50 port 45080 ssh2  root ,0,0,1
+Feb 17 12:36:23 ubuntu-victima sshd[4170]: Failed password for root from 192.168.1.50 port 60458 ssh2  root ,0,0,1
+Feb 17 12:28:15 ubuntu-victima sshd[3922]: Failed password for root from 192.168.1.50 port 36676 ssh2  root ,0,0,1
+Feb 17 17:04:06 ubuntu-victima sshd[3263]: Failed password for vboxuser from 192.168.1.50 port 44636 ssh2  vboxuser ,0,0,1
+Feb 17 12:27:23 ubuntu-victima sshd[3898]: Failed password for root from 192.168.1.50 port 44440 ssh2  root ,0,0,1
+Feb 16 18:11:12 ubuntu-victima sshd[2545]: Failed password for root from 192.168.1.50 port 41104 ssh2  root ,0,0,1
+Feb 17 11:16:12 ubuntu-victima sshd[2870]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,1,0,1
+Feb 16 18:06:33 ubuntu-victima sshd[2403]: Failed password for root from 192.168.1.50 port 50826 ssh2  root ,0,0,1
+Feb 17 13:29:20 ubuntu-victima sshd[4618]: Failed password for root from 192.168.1.50 port 45340 ssh2  root ,0,0,1
+Feb 17 13:26:16 ubuntu-victima sshd[4523]: Failed password for root from 192.168.1.50 port 42286 ssh2  root ,0,0,1
+Feb 17 17:06:45 ubuntu-victima sshd[3350]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 16 18:15:42 ubuntu-victima sshd[2701]: Failed password for root from 192.168.1.50 port 37510 ssh2  root ,0,0,1
+Feb 17 17:11:25 ubuntu-victima sshd[3472]: Failed password for vboxuser from 192.168.1.50 port 42100 ssh2  vboxuser ,0,0,1
+Feb 17 17:24:12 ubuntu-victima sshd[3854]: Failed password for vboxuser from 192.168.1.50 port 48992 ssh2  vboxuser ,0,0,1
+Feb 17 13:28:20 ubuntu-victima sshd[4580]: Failed password for root from 192.168.1.50 port 60176 ssh2  root ,0,0,1
+Feb 17 17:14:36 ubuntu-victima sshd[3561]: Failed password for vboxuser from 192.168.1.50 port 36286 ssh2  vboxuser ,0,0,1
+Feb 17 17:09:16 ubuntu-victima sshd[3409]: Failed password for vboxuser from 192.168.1.50 port 49868 ssh2  vboxuser ,0,0,1
+Feb 17 17:04:58 ubuntu-victima sshd[3279]: Disconnecting authenticating user vboxuser 192.168.1.50 port 49680: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 13:36:19 ubuntu-victima sshd[4834]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 17:57:36 ubuntu-victima sshd[1852]: Disconnecting authenticating user root 192.168.1.50 port 36584: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 17:56:47 ubuntu-victima sshd[1842]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:32:27 ubuntu-victima sshd[4087]: Disconnecting authenticating user vboxuser 192.168.1.50 port 37348: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:06:43 ubuntu-victima sshd[3346]: Failed password for vboxuser from 192.168.1.50 port 34968 ssh2  vboxuser ,0,0,1
+Feb 17 12:29:16 ubuntu-victima sshd[3951]: Failed password for root from 192.168.1.50 port 39900 ssh2  root ,0,0,1
+Feb 16 18:42:29 ubuntu-victima sshd[3428]: Failed password for root from 192.168.1.50 port 57406 ssh2  root ,1,0,1
+Feb 16 18:15:51 ubuntu-victima sshd[2707]: Failed password for root from 192.168.1.50 port 43104 ssh2  root ,0,0,1
+Feb 17 13:31:23 ubuntu-victima sshd[4691]: Failed password for root from 192.168.1.50 port 53208 ssh2  root ,0,0,1
+Feb 17 17:26:28 ubuntu-victima sshd[3919]: Failed password for vboxuser from 192.168.1.50 port 49210 ssh2  vboxuser ,0,0,1
+Feb 17 17:06:31 ubuntu-victima sshd[3336]: Failed password for vboxuser from 192.168.1.50 port 49382 ssh2  vboxuser ,0,0,1
+Feb 16 17:57:41 ubuntu-victima sshd[1862]: Failed password for root from 192.168.1.50 port 38136 ssh2  root ,0,0,1
+Feb 17 17:32:45 ubuntu-victima sshd[4095]: Disconnecting authenticating user vboxuser 192.168.1.50 port 48354: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 12:31:21 ubuntu-victima sshd[4026]: Failed password for root from 192.168.1.50 port 40928 ssh2  root ,0,0,1
+Feb 17 12:32:08 ubuntu-victima sshd[4046]: Failed password for root from 192.168.1.50 port 48736 ssh2  root ,0,0,1
+Feb 17 13:32:52 ubuntu-victima sshd[4733]: Failed password for root from 192.168.1.50 port 47034 ssh2  root ,0,0,1
+Feb 16 18:46:37 ubuntu-victima sshd[3543]: Failed password for root from 192.168.1.50 port 59842 ssh2  root ,0,0,1
+Feb 16 18:16:26 ubuntu-victima sshd[2718]: Failed password for root from 192.168.1.50 port 42150 ssh2  root ,0,0,1
+Feb 17 17:05:49 ubuntu-victima sshd[3308]: Failed password for vboxuser from 192.168.1.50 port 53454 ssh2  vboxuser ,0,0,1
+Feb 17 17:27:15 ubuntu-victima sshd[3935]: Disconnecting authenticating user vboxuser 192.168.1.50 port 55086: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 12:33:11 ubuntu-victima sshd[4078]: Failed password for root from 192.168.1.50 port 49192 ssh2  root ,0,0,1
+Feb 17 17:22:36 ubuntu-victima sshd[3791]: Disconnecting authenticating user vboxuser 192.168.1.50 port 55568: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 12:27:17 ubuntu-victima sshd[3900]: Failed password for root from 192.168.1.50 port 44450 ssh2  root ,0,0,1
+Feb 16 18:52:25 ubuntu-victima sshd[3706]: Failed password for root from 192.168.1.50 port 33960 ssh2  root ,0,0,1
+Feb 17 12:30:27 ubuntu-victima sshd[4004]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:37:18 ubuntu-victima sshd[3282]: Failed password for root from 192.168.1.50 port 35094 ssh2  root ,0,0,1
+Feb 17 17:24:36 ubuntu-victima sshd[3866]: Failed password for vboxuser from 192.168.1.50 port 54200 ssh2  vboxuser ,0,0,1
+Feb 16 18:49:13 ubuntu-victima sshd[3608]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,1,0,1
+Feb 17 17:04:26 ubuntu-victima sshd[3269]: Failed password for vboxuser from 192.168.1.50 port 58516 ssh2  vboxuser ,0,0,1
+Feb 16 18:18:53 ubuntu-victima sshd[2785]: Failed password for root from 192.168.1.50 port 49964 ssh2  root ,0,0,1
+Feb 16 17:57:45 ubuntu-victima sshd[1861]: Failed password for root from 192.168.1.50 port 38120 ssh2  root ,0,0,1
+Feb 16 18:20:01 ubuntu-victima sshd[2803]: Failed password for root from 192.168.1.50 port 41012 ssh2  root ,0,0,1
+Feb 16 18:36:02 ubuntu-victima sshd[3252]: Failed password for root from 192.168.1.50 port 47718 ssh2  root ,0,0,1
+Feb 17 17:15:08 ubuntu-victima sshd[3573]: Failed password for vboxuser from 192.168.1.50 port 60364 ssh2  vboxuser ,0,0,1
+Feb 17 17:04:28 ubuntu-victima sshd[3273]: Failed password for vboxuser from 192.168.1.50 port 58534 ssh2  vboxuser ,0,0,1
+Feb 16 17:56:58 ubuntu-victima sshd[1846]: Failed password for root from 192.168.1.50 port 53056 ssh2  root ,0,0,1
+Feb 17 17:15:56 ubuntu-victima sshd[3601]: Failed password for vboxuser from 192.168.1.50 port 34956 ssh2  vboxuser ,0,0,1
+Feb 16 18:09:26 ubuntu-victima sshd[2489]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:23:00 ubuntu-victima sshd[3809]: Failed password for vboxuser from 192.168.1.50 port 48620 ssh2  vboxuser ,0,0,1
+Feb 16 18:19:00 ubuntu-victima sshd[2787]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:03:54 ubuntu-victima sshd[3255]: Failed password for vboxuser from 192.168.1.50 port 45732 ssh2  vboxuser ,0,0,1
+Feb 17 17:14:36 ubuntu-victima sshd[3561]: Failed password for vboxuser from 192.168.1.50 port 36286 ssh2  vboxuser ,0,0,1
+Feb 17 12:34:37 ubuntu-victima sshd[4114]: Failed password for root from 192.168.1.50 port 35386 ssh2  root ,0,0,1
+Feb 16 18:34:43 ubuntu-victima sshd[3210]: Failed password for root from 192.168.1.50 port 55138 ssh2  root ,0,0,1
+Feb 17 12:28:26 ubuntu-victima sshd[3933]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 13:32:03 ubuntu-victima sshd[4705]: Failed password for root from 192.168.1.50 port 38082 ssh2  root ,0,0,1
+Feb 17 17:27:32 ubuntu-victima sshd[3946]: Failed password for vboxuser from 192.168.1.50 port 49774 ssh2  vboxuser ,0,0,1
+Feb 17 13:31:31 ubuntu-victima sshd[4689]: Failed password for root from 192.168.1.50 port 53204 ssh2  root ,0,0,1
+Feb 17 17:23:28 ubuntu-victima sshd[3817]: Disconnecting authenticating user vboxuser 192.168.1.50 port 49318: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:18:05 ubuntu-victima sshd[2759]: Failed password for root from 192.168.1.50 port 57020 ssh2  root ,0,0,1
+Feb 16 18:00:11 ubuntu-victima sshd[1923]: Failed password for root from 192.168.1.50 port 48924 ssh2  root ,0,0,1
+Feb 17 13:27:01 ubuntu-victima sshd[4553]: Failed password for root from 192.168.1.50 port 50134 ssh2  root ,0,0,1
+Feb 17 12:28:22 ubuntu-victima sshd[3928]: Failed password for root from 192.168.1.50 port 36706 ssh2  root ,0,0,1
+Feb 17 17:20:00 ubuntu-victima sshd[3715]: Failed password for vboxuser from 192.168.1.50 port 34050 ssh2  vboxuser ,0,0,1
+Feb 17 13:28:57 ubuntu-victima sshd[4608]: Failed password for root from 192.168.1.50 port 53296 ssh2  root ,0,0,1
+Feb 17 17:28:10 ubuntu-victima sshd[3960]: Failed password for vboxuser from 192.168.1.50 port 50374 ssh2  vboxuser ,0,0,1
+Feb 17 17:11:41 ubuntu-victima sshd[3472]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,0,1
+Feb 17 17:09:11 ubuntu-victima sshd[3405]: Failed password for vboxuser from 192.168.1.50 port 49854 ssh2  vboxuser ,0,0,1
+Feb 17 13:37:12 ubuntu-victima sshd[5367]: Disconnecting authenticating user root 192.168.1.50 port 54586: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:17:35 ubuntu-victima sshd[2741]: Failed password for root from 192.168.1.50 port 45642 ssh2  root ,0,0,1
+Feb 16 18:25:13 ubuntu-victima sshd[2943]: Failed password for root from 192.168.1.50 port 47190 ssh2  root ,0,0,1
+Feb 17 12:36:06 ubuntu-victima sshd[4162]: Failed password for root from 192.168.1.50 port 40352 ssh2  root ,0,0,1
+Feb 17 17:05:42 ubuntu-victima sshd[3310]: Failed password for vboxuser from 192.168.1.50 port 53464 ssh2  vboxuser ,0,0,1
+Feb 17 17:12:52 ubuntu-victima sshd[3510]: Disconnecting authenticating user vboxuser 192.168.1.50 port 54098: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:16:06 ubuntu-victima sshd[2711]: Failed password for root from 192.168.1.50 port 41124 ssh2  root ,0,0,1
+Feb 17 17:12:45 ubuntu-victima sshd[3510]: Failed password for vboxuser from 192.168.1.50 port 54098 ssh2  vboxuser ,0,0,1
+Feb 16 17:58:05 ubuntu-victima sshd[1869]: Failed password for root from 192.168.1.50 port 55076 ssh2  root ,0,0,1
+Feb 17 12:30:47 ubuntu-victima sshd[4012]: Failed password for root from 192.168.1.50 port 50354 ssh2  root ,0,0,1
+Feb 16 18:18:32 ubuntu-victima sshd[2773]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:14:58 ubuntu-victima sshd[3565]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 17:03:48 ubuntu-victima sshd[3246]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,0,1
+Feb 17 13:31:02 ubuntu-victima sshd[4685]: Failed password for root from 192.168.1.50 port 59694 ssh2  root ,0,0,1
+Feb 17 12:33:08 ubuntu-victima sshd[4080]: Failed password for root from 192.168.1.50 port 49204 ssh2  root ,0,0,1
+Feb 17 12:34:23 ubuntu-victima sshd[4108]: Failed password for root from 192.168.1.50 port 41976 ssh2  root ,0,0,1
+Feb 17 13:28:14 ubuntu-victima sshd[4584]: Failed password for root from 192.168.1.50 port 60180 ssh2  root ,0,0,1
+Feb 17 17:07:49 ubuntu-victima sshd[3368]: Failed password for vboxuser from 192.168.1.50 port 37998 ssh2  vboxuser ,0,0,1
+Feb 17 17:14:02 ubuntu-victima sshd[3547]: Failed password for vboxuser from 192.168.1.50 port 34400 ssh2  vboxuser ,0,0,1
+Feb 16 18:08:26 ubuntu-victima sshd[2456]: Failed password for root from 192.168.1.50 port 39380 ssh2  root ,0,0,1
+Feb 16 18:20:01 ubuntu-victima sshd[2799]: Disconnecting authenticating user root 192.168.1.50 port 36122: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:15:45 ubuntu-victima sshd[2697]: Disconnecting authenticating user root 192.168.1.50 port 50036: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:18:43 ubuntu-victima sshd[3683]: Disconnecting authenticating user vboxuser 192.168.1.50 port 53400: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:23:31 ubuntu-victima sshd[2913]: Failed password for root from 192.168.1.50 port 50676 ssh2  root ,0,0,1
+Feb 17 17:15:30 ubuntu-victima sshd[3588]: Failed password for vboxuser from 192.168.1.50 port 49430 ssh2  vboxuser ,0,0,1
+Feb 17 13:28:23 ubuntu-victima sshd[4600]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:11:17 ubuntu-victima sshd[3460]: Disconnecting authenticating user vboxuser 192.168.1.50 port 57558: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:44:22 ubuntu-victima sshd[3474]: Failed password for root from 192.168.1.50 port 36290 ssh2  root ,0,0,1
+Feb 17 17:18:53 ubuntu-victima sshd[3689]: Failed password for vboxuser from 192.168.1.50 port 60664 ssh2  vboxuser ,0,0,1
+Feb 17 13:28:23 ubuntu-victima sshd[4584]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,1,0,1
+Feb 17 12:31:03 ubuntu-victima sshd[4012]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,1,0,1
+Feb 17 12:33:03 ubuntu-victima sshd[4072]: Disconnecting authenticating user root 192.168.1.50 port 45800: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:47:33 ubuntu-victima sshd[3563]: Failed password for root from 192.168.1.50 port 35248 ssh2  root ,0,0,1
+Feb 16 18:30:31 ubuntu-victima sshd[3085]: Disconnecting authenticating user root 192.168.1.50 port 44488: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:19:17 ubuntu-victima sshd[3705]: Failed password for vboxuser from 192.168.1.50 port 39254 ssh2  vboxuser ,0,0,1
+Feb 16 18:48:00 ubuntu-victima sshd[3584]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 13:29:49 ubuntu-victima sshd[4630]: Failed password for root from 192.168.1.50 port 54068 ssh2  root ,0,0,1
+Feb 16 17:59:13 ubuntu-victima sshd[1904]: Failed password for root from 192.168.1.50 port 45080 ssh2  root ,0,0,1
+Feb 17 17:13:52 ubuntu-victima sshd[3536]: Failed password for vboxuser from 192.168.1.50 port 48304 ssh2  vboxuser ,0,0,1
+Feb 17 12:30:38 ubuntu-victima sshd[4008]: Failed password for root from 192.168.1.50 port 57378 ssh2  root ,0,0,1
+Feb 17 13:25:15 ubuntu-victima sshd[4499]: Failed password for root from 192.168.1.50 port 45608 ssh2  root ,0,0,1
+Feb 17 13:30:25 ubuntu-victima sshd[4648]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,1,0,1
+Feb 16 18:49:40 ubuntu-victima sshd[3624]: Failed password for root from 192.168.1.50 port 41664 ssh2  root ,0,0,1
+Feb 16 17:57:36 ubuntu-victima sshd[1852]: Disconnecting authenticating user root 192.168.1.50 port 36584: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:19:43 ubuntu-victima sshd[3709]: Failed password for vboxuser from 192.168.1.50 port 36854 ssh2  vboxuser ,0,0,1
+Feb 16 18:45:37 ubuntu-victima sshd[3519]: Failed password for root from 192.168.1.50 port 37828 ssh2  root ,0,0,1
+Feb 17 17:20:59 ubuntu-victima sshd[3752]: Failed password for vboxuser from 192.168.1.50 port 41008 ssh2  vboxuser ,0,0,1
+Feb 17 17:10:18 ubuntu-victima sshd[3435]: Failed password for vboxuser from 192.168.1.50 port 36796 ssh2  vboxuser ,0,0,1
+Feb 17 17:11:49 ubuntu-victima sshd[3476]: Failed password for vboxuser from 192.168.1.50 port 47530 ssh2  vboxuser ,0,0,1
+Feb 16 18:39:33 ubuntu-victima sshd[3355]: Failed password for root from 192.168.1.50 port 58188 ssh2  root ,0,0,1
+Feb 16 18:40:26 ubuntu-victima sshd[3373]: Disconnecting authenticating user root 192.168.1.50 port 58180: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:13:23 ubuntu-victima sshd[3522]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 13:31:05 ubuntu-victima sshd[4683]: Failed password for root from 192.168.1.50 port 59692 ssh2  root ,0,0,1
+Feb 16 17:58:02 ubuntu-victima sshd[1867]: Failed password for root from 192.168.1.50 port 55066 ssh2  root ,1,0,1
+Feb 17 17:05:04 ubuntu-victima sshd[3292]: Failed password for vboxuser from 192.168.1.50 port 40994 ssh2  vboxuser ,0,0,1
+Feb 17 12:28:57 ubuntu-victima sshd[3945]: Failed password for root from 192.168.1.50 port 58888 ssh2  root ,0,0,1
+Feb 16 18:19:27 ubuntu-victima sshd[2791]: Failed password for root from 192.168.1.50 port 36938 ssh2  root ,0,0,1
+Feb 17 13:31:25 ubuntu-victima sshd[4691]: Failed password for root from 192.168.1.50 port 53208 ssh2  root ,0,0,1
+Feb 17 17:06:57 ubuntu-victima sshd[3348]: Failed password for vboxuser from 192.168.1.50 port 34980 ssh2  vboxuser ,0,0,1
+Feb 16 18:15:02 ubuntu-victima sshd[2686]: Failed password for root from 192.168.1.50 port 60800 ssh2  root ,0,0,1
+Feb 17 13:36:51 ubuntu-victima sshd[4884]: Failed password for root from 192.168.1.50 port 40520 ssh2  root ,0,0,1
+Feb 16 18:46:50 ubuntu-victima sshd[3545]: Failed password for root from 192.168.1.50 port 59854 ssh2  root ,0,0,1
+Feb 17 17:02:59 ubuntu-victima sshd[3224]: Disconnecting authenticating user vboxuser 192.168.1.50 port 37618: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 12:01:28 ubuntu-victima sshd[3780]: Failed password for root from 192.168.1.50 port 38310 ssh2  root ,0,0,1
+Feb 16 17:59:33 ubuntu-victima sshd[1914]: Failed password for root from 192.168.1.50 port 48452 ssh2  root ,0,0,1
+Feb 16 17:56:34 ubuntu-victima sshd[1827]: Failed password for root from 192.168.1.50 port 54164 ssh2  root ,0,0,1
+Feb 16 17:56:34 ubuntu-victima sshd[1825]: Failed password for root from 192.168.1.50 port 54152 ssh2  root ,0,0,1
+Feb 17 17:15:54 ubuntu-victima sshd[3597]: Failed password for vboxuser from 192.168.1.50 port 55000 ssh2  vboxuser ,0,0,1
+Feb 16 18:09:36 ubuntu-victima sshd[2494]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:36:05 ubuntu-victima sshd[3254]: Failed password for root from 192.168.1.50 port 47730 ssh2  root ,0,0,1
+Feb 16 18:29:11 ubuntu-victima sshd[3056]: Failed password for root from 192.168.1.50 port 53976 ssh2  root ,0,0,1
+Feb 17 17:26:16 ubuntu-victima sshd[3913]: Failed password for vboxuser from 192.168.1.50 port 40908 ssh2  vboxuser ,0,0,1
+Feb 17 12:32:56 ubuntu-victima sshd[4070]: Failed password for root from 192.168.1.50 port 45786 ssh2  root ,0,0,1
+Feb 16 17:56:07 ubuntu-victima sshd[1681]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:27:20 ubuntu-victima sshd[3005]: Disconnecting authenticating user root 192.168.1.50 port 53056: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 17:56:07 ubuntu-victima sshd[1681]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+2026-02-18 12:13:25 status half-configured libc-bin:amd64 2.39-0ubuntu8.7    ,0,0,1
+Feb 16 18:28:38 ubuntu-victima sshd[3042]: Failed password for root from 192.168.1.50 port 52690 ssh2  root ,0,0,1
+Feb 17 13:33:43 ubuntu-victima sshd[4758]: Disconnecting authenticating user root 192.168.1.50 port 41694: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:09:24 ubuntu-victima sshd[2494]: Failed password for root from 192.168.1.50 port 34488 ssh2  root ,0,0,1
+Feb 17 17:22:52 ubuntu-victima sshd[3799]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,0,1
+Feb 16 18:25:40 ubuntu-victima sshd[2962]: Failed password for root from 192.168.1.50 port 57820 ssh2  root ,0,0,1
+Feb 17 13:28:57 ubuntu-victima sshd[4606]: Failed password for root from 192.168.1.50 port 53284 ssh2  root ,0,0,1
+Feb 17 13:30:07 ubuntu-victima sshd[4648]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:26:13 ubuntu-victima sshd[3907]: Disconnecting authenticating user vboxuser 192.168.1.50 port 44640: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:20:28 ubuntu-victima sshd[2818]: Failed password for root from 192.168.1.50 port 55046 ssh2  root ,0,0,1
+Feb 17 11:16:20 ubuntu-victima sshd[2868]: Failed password for root from 192.168.1.50 port 55994 ssh2  root ,0,0,1
+Feb 17 17:11:23 ubuntu-victima sshd[3464]: Failed password for vboxuser from 192.168.1.50 port 50534 ssh2  vboxuser ,0,0,1
+Feb 17 13:30:53 ubuntu-victima sshd[4675]: Failed password for root from 192.168.1.50 port 50620 ssh2  root ,0,0,1
+Feb 16 18:40:34 ubuntu-victima sshd[3384]: Failed password for root from 192.168.1.50 port 54452 ssh2  root ,0,0,1
+Feb 16 18:49:35 ubuntu-victima sshd[3618]: Failed password for root from 192.168.1.50 port 35366 ssh2  root ,0,0,1
+Feb 16 18:26:14 ubuntu-victima sshd[2970]: Disconnecting authenticating user root 192.168.1.50 port 39086: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:39:29 ubuntu-victima sshd[3344]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:31:25 ubuntu-victima sshd[3117]: Failed password for root from 192.168.1.50 port 51954 ssh2  root ,0,0,1
+Feb 16 18:35:00 ubuntu-victima sshd[3214]: Disconnecting authenticating user root 192.168.1.50 port 46276: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 17:57:41 ubuntu-victima sshd[1865]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:17:57 ubuntu-victima sshd[3673]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 17:14:06 ubuntu-victima sshd[3551]: Failed password for vboxuser from 192.168.1.50 port 34428 ssh2  vboxuser ,0,0,1
+Feb 16 18:26:40 ubuntu-victima sshd[2985]: Failed password for root from 192.168.1.50 port 37676 ssh2  root ,0,0,1
+Feb 17 12:28:26 ubuntu-victima sshd[3931]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:13:58 ubuntu-victima sshd[3538]: Disconnecting authenticating user vboxuser 192.168.1.50 port 48318: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 12:09:31 ubuntu-victima sshd[3835]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,1,0,1
+Feb 16 18:30:36 ubuntu-victima sshd[3093]: Failed password for root from 192.168.1.50 port 42018 ssh2  root ,0,0,1
+Feb 17 17:25:59 ubuntu-victima sshd[3907]: Failed password for vboxuser from 192.168.1.50 port 44640 ssh2  vboxuser ,0,0,1
+Feb 17 13:32:08 ubuntu-victima sshd[4705]: Failed password for root from 192.168.1.50 port 38082 ssh2  root ,0,0,1
+Feb 17 12:32:08 ubuntu-victima sshd[4044]: Failed password for root from 192.168.1.50 port 48720 ssh2  root ,0,0,1
+Feb 17 17:18:37 ubuntu-victima sshd[3683]: Failed password for vboxuser from 192.168.1.50 port 53400 ssh2  vboxuser ,0,0,1
+Feb 16 18:39:00 ubuntu-victima sshd[3338]: Failed password for root from 192.168.1.50 port 55176 ssh2  root ,0,0,1
+Feb 17 17:09:04 ubuntu-victima sshd[3403]: Failed password for vboxuser from 192.168.1.50 port 55210 ssh2  vboxuser ,0,0,1
+Feb 16 18:18:01 ubuntu-victima sshd[2754]: Failed password for root from 192.168.1.50 port 37328 ssh2  root ,0,0,1
+Feb 17 12:32:17 ubuntu-victima sshd[4056]: Failed password for root from 192.168.1.50 port 56158 ssh2  root ,0,0,1
+Feb 17 12:01:55 ubuntu-victima sshd[3796]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 12:30:10 ubuntu-victima sshd[3978]: Disconnecting authenticating user root 192.168.1.50 port 37152: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:12:12 ubuntu-victima sshd[2563]: Failed password for root from 192.168.1.50 port 37442 ssh2  root ,0,0,1
+Feb 17 12:35:29 ubuntu-victima sshd[4144]: Failed password for root from 192.168.1.50 port 53012 ssh2  root ,0,0,1
+Feb 17 17:26:37 ubuntu-victima sshd[3921]: Disconnecting authenticating user vboxuser 192.168.1.50 port 49218: Too many authentication failures [preauth]    ,0,0,1
+Feb 16 18:49:09 ubuntu-victima sshd[3608]: Failed password for root from 192.168.1.50 port 51360 ssh2  root ,0,0,1
+Feb 16 18:37:51 ubuntu-victima sshd[3298]: Failed password for root from 192.168.1.50 port 37000 ssh2  root ,0,0,1
+Feb 17 17:09:21 ubuntu-victima sshd[3409]: Failed password for vboxuser from 192.168.1.50 port 49868 ssh2  vboxuser ,0,0,1
+Feb 16 18:22:18 ubuntu-victima sshd[2881]: Failed password for root from 192.168.1.50 port 38046 ssh2  root ,0,0,1
+Feb 17 13:29:26 ubuntu-victima sshd[4624]: Failed password for root from 192.168.1.50 port 45372 ssh2  root ,0,0,1
+Feb 18 12:46:40 ubuntu-victima sudo[3236]: pam_unix(sudo:session): session closed for user root  root ,0,0,1
+Feb 17 12:34:33 ubuntu-victima sshd[4116]: Failed password for root from 192.168.1.50 port 35392 ssh2  root ,0,0,1
+Feb 16 18:48:28 ubuntu-victima sshd[3588]: Failed password for root from 192.168.1.50 port 54904 ssh2  root ,0,0,1
+Feb 16 18:41:04 ubuntu-victima sshd[3387]: Disconnecting authenticating user root 192.168.1.50 port 46996: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:03:32 ubuntu-victima sshd[3236]: Disconnecting authenticating user vboxuser 192.168.1.50 port 57002: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 12:31:36 ubuntu-victima sshd[4026]: Failed password for root from 192.168.1.50 port 40928 ssh2  root ,0,0,1
+Feb 17 11:16:09 ubuntu-victima sshd[2864]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 13:26:56 ubuntu-victima sshd[4543]: Disconnecting authenticating user root 192.168.1.50 port 47606: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 17:21:34 ubuntu-victima sshd[3766]: Failed password for vboxuser from 192.168.1.50 port 32888 ssh2  vboxuser ,0,0,1
+Feb 17 17:22:42 ubuntu-victima sshd[3801]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 13:34:20 ubuntu-victima sshd[4780]: Failed password for root from 192.168.1.50 port 37284 ssh2  root ,0,0,1
+Feb 26 11:07:46 ubuntu-victima sudo[10255]: pam_unix(sudo:session): session opened for user root(uid=0) by vboxuser(uid=1000)   root ,0,0,1
+Feb 16 18:10:03 ubuntu-victima sshd[2506]: Disconnecting authenticating user root 192.168.1.50 port 56064: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 13:35:26 ubuntu-victima sshd[4819]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 17:59:22 ubuntu-victima sshd[1899]: Disconnecting authenticating user root 192.168.1.50 port 45058: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 12:29:43 ubuntu-victima sshd[3970]: Failed password for root from 192.168.1.50 port 45544 ssh2  root ,0,0,1
+Feb 16 18:35:22 ubuntu-victima sshd[3228]: Failed password for root from 192.168.1.50 port 33274 ssh2  root ,0,0,1
+Feb 17 12:29:52 ubuntu-victima sshd[3966]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 17 17:10:00 ubuntu-victima sshd[3426]: Failed password for vboxuser from 192.168.1.50 port 55906 ssh2  vboxuser ,0,0,1
+Feb 17 17:07:45 ubuntu-victima sshd[3362]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,0,1
+Feb 17 17:27:07 ubuntu-victima sshd[3931]: Failed password for vboxuser from 192.168.1.50 port 55078 ssh2  vboxuser ,0,0,1
+Feb 26 11:07:46 ubuntu-victima sudo[10255]: pam_unix(sudo:session): session closed for user root   root ,0,0,1
+Feb 17 17:28:31 ubuntu-victima sshd[3974]: Failed password for vboxuser from 192.168.1.50 port 41250 ssh2  vboxuser ,0,0,1
+Feb 16 18:09:55 ubuntu-victima sshd[2510]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:41:05 ubuntu-victima sshd[3391]: Failed password for root from 192.168.1.50 port 60194 ssh2  root ,0,0,1
+Feb 16 18:42:43 ubuntu-victima sshd[3436]: Failed password for root from 192.168.1.50 port 54384 ssh2  root ,0,0,1
+Feb 17 17:19:01 ubuntu-victima sshd[3693]: Failed password for vboxuser from 192.168.1.50 port 33008 ssh2  vboxuser ,0,0,1
+Feb 16 18:09:49 ubuntu-victima sshd[2500]: Failed password for root from 192.168.1.50 port 35402 ssh2  root ,0,0,1
+Feb 16 17:56:14 ubuntu-victima sshd[1820]: Failed password for root from 192.168.1.50 port 54284 ssh2  root ,0,0,1
+Feb 16 18:51:41 ubuntu-victima sshd[3684]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:47:56 ubuntu-victima sshd[3580]: Failed password for root from 192.168.1.50 port 35158 ssh2  root ,0,0,1
+Feb 16 18:29:03 ubuntu-victima sshd[3048]: Failed password for root from 192.168.1.50 port 43096 ssh2  root ,0,0,1
+Feb 17 17:32:29 ubuntu-victima sshd[4099]: Failed password for vboxuser from 192.168.1.50 port 48374 ssh2  vboxuser ,0,0,1
+Feb 16 18:19:03 ubuntu-victima sshd[2778]: Failed password for root from 192.168.1.50 port 54312 ssh2  root ,0,0,1
+Feb 17 13:32:41 ubuntu-victima sshd[4723]: Disconnecting authenticating user root 192.168.1.50 port 38790: Too many authentication failures [preauth]    ,0,0,1
+Feb 17 11:16:23 ubuntu-victima sshd[2870]: Failed password for root from 192.168.1.50 port 56010 ssh2  root ,0,0,1
+Feb 17 17:04:50 ubuntu-victima sshd[3277]: Failed password for vboxuser from 192.168.1.50 port 49670 ssh2  vboxuser ,0,0,1
+Feb 17 17:14:40 ubuntu-victima sshd[3557]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 13:28:21 ubuntu-victima sshd[4584]: Failed password for root from 192.168.1.50 port 60180 ssh2  root ,0,0,1
+Feb 17 13:32:56 ubuntu-victima sshd[4733]: Failed password for root from 192.168.1.50 port 47034 ssh2  root ,0,0,1
+Feb 17 11:15:55 ubuntu-victima sshd[2860]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,0,0,1
+Feb 16 18:53:39 ubuntu-victima sshd[3740]: Failed password for root from 192.168.1.50 port 45872 ssh2  root ,0,0,1
+Feb 17 17:06:39 ubuntu-victima sshd[3344]: Failed password for vboxuser from 192.168.1.50 port 38800 ssh2  vboxuser ,0,0,1
+Feb 17 17:19:52 ubuntu-victima sshd[3715]: Failed password for vboxuser from 192.168.1.50 port 34050 ssh2  vboxuser ,0,0,1
+Feb 17 12:34:07 ubuntu-victima sshd[4102]: Failed password for root from 192.168.1.50 port 42444 ssh2  root ,0,0,1
+Feb 17 17:25:39 ubuntu-victima sshd[3900]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 17:05:37 ubuntu-victima sshd[3310]: Failed password for vboxuser from 192.168.1.50 port 53464 ssh2  vboxuser ,0,0,1
+Feb 17 17:27:07 ubuntu-victima sshd[3931]: Failed password for vboxuser from 192.168.1.50 port 55078 ssh2  vboxuser ,0,0,1
+Feb 17 17:18:22 ubuntu-victima sshd[3677]: Failed password for vboxuser from 192.168.1.50 port 54458 ssh2  vboxuser ,0,0,1
+Feb 17 17:24:27 ubuntu-victima sshd[3860]: Failed password for vboxuser from 192.168.1.50 port 46524 ssh2  vboxuser ,0,0,1
+Feb 17 17:10:55 ubuntu-victima sshd[3452]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,0,0,1
+Feb 17 17:14:57 ubuntu-victima sshd[3567]: Failed password for vboxuser from 192.168.1.50 port 51272 ssh2  vboxuser ,0,0,1

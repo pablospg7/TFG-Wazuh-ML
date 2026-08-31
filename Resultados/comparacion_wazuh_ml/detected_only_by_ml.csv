@@ -1,0 +1,139 @@
+text,real,ml_pred,wazuh_pred
+Feb 17 17:28:30 ubuntu-victima sshd[3970]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 32880 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:37:11 ubuntu-victima sshd[3276]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 58334 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:21:18 ubuntu-victima sshd[3756]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 48138 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 17:58:02 ubuntu-victima sshd[1865]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 39804 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:25:53 ubuntu-victima sshd[3898]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 46066 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:47:51 ubuntu-victima sshd[3569]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 49182 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:21:03 ubuntu-victima sshd[2435]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 39412 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 12:28:25 ubuntu-victima sshd[3926]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 36692 ssh2 [preauth]  root ,1,1,0
+Feb 16 18:16:30 ubuntu-victima sshd[2714]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 41138 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:21:27 ubuntu-victima sshd[2445]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 47828 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:25:50 ubuntu-victima sshd[2960]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 57814 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:46:03 ubuntu-victima sshd[2695]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 44530 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:28:42 ubuntu-victima sshd[3980]: Accepted password for vboxuser from 192.168.1.50 port 50194 ssh2  vboxuser ,1,1,0
+Feb 17 17:00:51 ubuntu-victima sshd[3162]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 38686 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:24:32 ubuntu-victima sshd[2528]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 55534 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:19:28 ubuntu-victima sshd[2391]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 47516 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:17:57 ubuntu-victima sshd[3655]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,1,0
+Feb 17 17:15:52 ubuntu-victima sshd[3593]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 49450 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:11:17 ubuntu-victima sshd[3460]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 57558 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:09:25 ubuntu-victima sshd[3407]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 49856 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:11:17 ubuntu-victima sshd[3460]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 57558 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:01:13 ubuntu-victima sshd[3176]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 52294 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:16:02 ubuntu-victima sshd[2703]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 51906 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:53:22 ubuntu-victima sshd[2875]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 38448 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:37:20 ubuntu-victima sshd[3280]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 55124 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:00:51 ubuntu-victima sshd[3162]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 38686 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:14:32 ubuntu-victima sshd[3553]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 56786 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:05:26 ubuntu-victima sshd[2215]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 60950 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:22:22 ubuntu-victima sshd[3783]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 56430 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:21:30 ubuntu-victima sshd[3760]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 37570 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:46:37 ubuntu-victima sshd[2714]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 39318 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 13:36:36 ubuntu-victima sshd[4857]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 48806 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:07:11 ubuntu-victima sshd[2273]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 36608 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:21:36 ubuntu-victima sshd[3762]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 32864 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:56:58 ubuntu-victima sshd[3049]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 43354 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:56:24 ubuntu-victima sshd[3033]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 40606 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:50:58 ubuntu-victima sshd[2843]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 45202 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:14:04 ubuntu-victima sshd[3541]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 48332 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:07:31 ubuntu-victima sshd[3358]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 56874 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:44:20 ubuntu-victima sshd[2647]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,1,0
+Feb 17 16:56:06 ubuntu-victima sshd[3025]: Failed password for vboxuser from 192.168.1.50 port 37926 ssh2  vboxuser ,0,1,0
+Feb 17 16:03:16 ubuntu-victima sshd[2148]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 33612 ssh2 [preauth]  root ,1,1,0
+Feb 16 17:57:53 ubuntu-victima sshd[1861]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 38120 ssh2 [preauth]  root ,1,1,0
+Feb 16 18:32:08 ubuntu-victima sshd[3130]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 40104 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:22:36 ubuntu-victima sshd[2469]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 38314 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:06:33 ubuntu-victima sshd[3336]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 49382 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:21:52 ubuntu-victima sshd[2863]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 40720 ssh2 [preauth]  root ,1,1,0
+Feb 17 12:35:42 ubuntu-victima sshd[4148]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 53016 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:07:11 ubuntu-victima sshd[2277]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 36612 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:28:15 ubuntu-victima sshd[3964]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 47490 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:46:35 ubuntu-victima sshd[3539]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 34506 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:06:04 ubuntu-victima sshd[2247]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,1,1,0
+Feb 17 11:15:19 ubuntu-victima sshd[2834]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 47784 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:16:08 ubuntu-victima sshd[3603]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,1,0
+Feb 17 17:02:02 ubuntu-victima sshd[3194]: Failed password for vboxuser from 192.168.1.50 port 45548 ssh2  vboxuser ,1,1,0
+Feb 17 17:20:19 ubuntu-victima sshd[3729]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 58156 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:53:40 ubuntu-victima sshd[2887]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,1,0
+Feb 17 17:28:30 ubuntu-victima sshd[3970]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 32880 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:24:33 ubuntu-victima sshd[3858]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 46518 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:18:33 ubuntu-victima sshd[2363]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 54886 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:04:53 ubuntu-victima sshd[2197]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 54934 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:11:01 ubuntu-victima sshd[3454]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 34996 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:25:17 ubuntu-victima sshd[3885]: Failed password for vboxuser from 192.168.1.50 port 50070 ssh2  vboxuser ,1,1,0
+Feb 16 18:11:48 ubuntu-victima sshd[2547]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 34880 ssh2 [preauth]  root ,1,1,0
+Feb 16 18:21:38 ubuntu-victima sshd[2859]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 37032 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:20:22 ubuntu-victima sshd[2415]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 35870 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:42:48 ubuntu-victima sshd[3432]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 44858 ssh2 [preauth]  root ,1,1,0
+Feb 16 18:09:45 ubuntu-victima sshd[2498]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 34510 ssh2 [preauth]  root ,1,1,0
+Feb 17 13:28:40 ubuntu-victima sshd[4594]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 40478 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:02:27 ubuntu-victima sshd[3204]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 48934 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:28:15 ubuntu-victima sshd[3964]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 47490 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:32:45 ubuntu-victima sshd[4097]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 48370 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:13:44 ubuntu-victima sshd[3534]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 57752 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:11:35 ubuntu-victima sshd[3466]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 42078 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:14:33 ubuntu-victima sshd[2657]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 52458 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:48:17 ubuntu-victima sshd[2765]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 52894 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:28:12 ubuntu-victima sshd[3960]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 50374 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:53:40 ubuntu-victima sshd[2887]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 40014 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:01:09 ubuntu-victima sshd[3174]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 52282 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:03:16 ubuntu-victima sshd[2150]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 33622 ssh2 [preauth]  root ,1,1,0
+Feb 16 18:26:56 ubuntu-victima sshd[2985]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 37676 ssh2 [preauth]  root ,1,1,0
+Feb 16 18:32:20 ubuntu-victima sshd[3135]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 57880 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:07:49 ubuntu-victima sshd[2295]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 34158 ssh2 [preauth]  root ,1,1,0
+Feb 16 18:50:47 ubuntu-victima sshd[3650]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 58832 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:20:43 ubuntu-victima sshd[2429]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 60942 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:09:54 ubuntu-victima sshd[2502]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 35414 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:11:53 ubuntu-victima sshd[3476]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 47530 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:20:28 ubuntu-victima sshd[2422]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 45630 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:45:33 ubuntu-victima sshd[2679]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 37154 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 13:37:12 ubuntu-victima sshd[5370]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 54590 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:45:31 ubuntu-victima sshd[2683]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 37176 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:47:59 ubuntu-victima sshd[2749]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,1,0
+Feb 17 16:47:35 ubuntu-victima sshd[2739]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 35648 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:06:20 ubuntu-victima sshd[3330]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 32864 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:23:33 ubuntu-victima sshd[2490]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 35718 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:27:59 ubuntu-victima sshd[3956]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 41942 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:24:14 ubuntu-victima sshd[2918]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 38386 ssh2 [preauth]  root ,1,1,0
+Feb 17 12:28:08 ubuntu-victima sshd[3920]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=root  root ,1,1,0
+Feb 16 18:34:17 ubuntu-victima sshd[3195]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 43920 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:02:07 ubuntu-victima sshd[3198]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 45562 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:07:29 ubuntu-victima sshd[2283]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 44950 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:55:14 ubuntu-victima sshd[3003]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 56190 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:14:40 ubuntu-victima sshd[3559]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,1,0
+Feb 17 17:18:53 ubuntu-victima sshd[3689]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 60664 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:04:38 ubuntu-victima sshd[2195]: Failed password for root from 192.168.1.50 port 54918 ssh2  root ,1,1,0
+Feb 16 18:51:32 ubuntu-victima sshd[3682]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 58660 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:25:01 ubuntu-victima sshd[3872]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 57478 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:46:57 ubuntu-victima sshd[2723]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 54916 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:56:46 ubuntu-victima sshd[3053]: Failed password for vboxuser from 192.168.1.50 port 43372 ssh2  vboxuser ,1,1,0
+Feb 17 16:04:52 ubuntu-victima sshd[2199]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 54946 ssh2 [preauth]  root ,1,1,0
+Feb 16 18:15:52 ubuntu-victima sshd[2701]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 37510 ssh2 [preauth]  root ,1,1,0
+Feb 17 13:29:33 ubuntu-victima sshd[4620]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 45350 ssh2 [preauth]  root ,1,1,0
+Feb 16 18:49:45 ubuntu-victima sshd[3622]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 35386 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:10:27 ubuntu-victima sshd[3439]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser ,1,1,0
+Feb 17 16:53:24 ubuntu-victima sshd[2883]: Failed password for vboxuser from 192.168.1.50 port 39990 ssh2  vboxuser ,1,1,0
+Feb 17 17:13:44 ubuntu-victima sshd[3534]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 57752 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:27:18 ubuntu-victima sshd[3933]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 55082 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 13:27:14 ubuntu-victima sshd[4547]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 50102 ssh2 [preauth]  root ,1,1,0
+Feb 17 17:24:13 ubuntu-victima sshd[3850]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 58964 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:57:16 ubuntu-victima sshd[3057]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 41700 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:11:59 ubuntu-victima sshd[3478]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 36512 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:47:59 ubuntu-victima sshd[2749]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 55464 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:24:13 ubuntu-victima sshd[3850]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 58964 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 17:56:29 ubuntu-victima sshd[1692]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 53486 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:05:10 ubuntu-victima sshd[2203]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 55828 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:59:37 ubuntu-victima sshd[3119]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 34762 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:17:11 ubuntu-victima sshd[3630]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 36418 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:16:53 ubuntu-victima sshd[3622]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 39364 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:20:42 ubuntu-victima sshd[3737]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 36190 ssh2 [preauth]  vboxuser ,1,1,0
+"192.168.1.50 - - [26/Feb/2026:11:19:16 +0000] ""GET /index.html HTTP/1.1"" 200 3404 ""-"" ""gobuster/3.8"" /index.html   ",1,1,0
+Feb 17 16:45:16 ubuntu-victima sshd[2667]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 55520 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:14:32 ubuntu-victima sshd[3553]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 56786 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:05:44 ubuntu-victima sshd[2227]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 39086 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:24:01 ubuntu-victima sshd[2503]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 51428 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 16 18:48:18 ubuntu-victima sshd[3584]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 52788 ssh2 [preauth]  root ,1,1,0
+Feb 17 16:58:58 ubuntu-victima sshd[3101]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 48132 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 16:46:21 ubuntu-victima sshd[2705]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 35340 ssh2 [preauth]  vboxuser ,1,1,0
+Feb 17 17:07:27 ubuntu-victima sshd[3356]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 43156 ssh2 [preauth]  vboxuser ,1,1,0

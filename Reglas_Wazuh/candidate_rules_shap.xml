@@ -1,0 +1,20 @@
+<group name="local,ml_shap_candidates,">
+
+  <!-- Prototipo TFG: revisar antes de utilizar. -->
+
+  <rule id="110200" level="1">
+    <if_sid>31100</if_sid>
+    <match type="pcre2">(?i)\bgobuster(?:/[0-9.]+)?\b</match>
+    <description>TFG: Gobuster request observed.</description>
+    <options>no_log</options>
+    <group>web,reconnaissance,gobuster,</group>
+  </rule>
+
+  <rule id="110201" level="10" frequency="10" timeframe="60">
+    <if_matched_sid>110200</if_matched_sid>
+    <same_srcip />
+    <description>TFG: Possible web enumeration using Gobuster.</description>
+    <group>attack,web_scan,reconnaissance,gobuster,</group>
+  </rule>
+
+</group>

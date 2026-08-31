@@ -1,0 +1,370 @@
+Posible enumeración web desde 192.168.1.50, con 824 peticiones sospechosas correlacionadas durante aproximadamente 0.0 minutos. Herramienta estimada: Gobuster. Recursos de ejemplo: /source, /resolved, /style, /HTML, /style_css.
+  - Tipo: Posible enumeración web
+  - IP origen: 192.168.1.50
+  - Herramienta estimada: Gobuster
+  - Eventos correlacionados: 824
+  - Inicio: 2026-02-26 11:19:15+00:00
+  - Fin: 2026-02-26 11:19:16+00:00
+  - URLs ejemplo: /source, /resolved, /style, /HTML, /style_css
+  - Ejemplo log: 192.168.1.50 - - [26/Feb/2026:11:19:16 +0000] "GET /source HTTP/1.1" 404 435 "-" "gobuster/3.8" /source   
+
+Posible enumeración web desde 192.168.1.50, con 778 peticiones sospechosas correlacionadas durante aproximadamente 0.1 minutos. Herramienta estimada: Enumeración web no identificada. Recursos de ejemplo: /slides, /site-map, /saves, /INSTALL_admin, /seo.
+  - Tipo: Posible enumeración web
+  - IP origen: 192.168.1.50
+  - Herramienta estimada: Enumeración web no identificada
+  - Eventos correlacionados: 778
+  - Inicio: 2026-02-26 11:08:13+00:00
+  - Fin: 2026-02-26 11:08:16+00:00
+  - URLs ejemplo: /slides, /site-map, /saves, /INSTALL_admin, /seo
+  - Ejemplo log: 192.168.1.50 - - [26/Feb/2026:11:08:16 +0000] "GET /slides HTTP/1.1" 404 435 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)" /slides   
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 15 eventos correlacionados durante aproximadamente 4.3 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 15
+  - Inicio: 2026-02-17 17:10:27+00:00
+  - Fin: 2026-02-17 17:14:48+00:00
+  - Ejemplo log: Feb 17 17:11:17 ubuntu-victima sshd[3460]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 57558 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 13 eventos correlacionados durante aproximadamente 3.5 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 13
+  - Inicio: 2026-02-17 17:25:01+00:00
+  - Fin: 2026-02-17 17:28:30+00:00
+  - Ejemplo log: Feb 17 17:28:30 ubuntu-victima sshd[3970]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 32880 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 11 eventos correlacionados durante aproximadamente 3.4 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 11
+  - Inicio: 2026-02-17 17:06:04+00:00
+  - Fin: 2026-02-17 17:09:25+00:00
+  - Ejemplo log: Feb 17 17:09:25 ubuntu-victima sshd[3407]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 49856 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 11 eventos correlacionados durante aproximadamente 3.0 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 11
+  - Inicio: 2026-02-17 16:45:16+00:00
+  - Fin: 2026-02-17 16:48:17+00:00
+  - Ejemplo log: Feb 17 16:46:03 ubuntu-victima sshd[2695]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 44530 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 10 eventos correlacionados durante aproximadamente 4.2 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 10
+  - Inicio: 2026-02-17 17:20:19+00:00
+  - Fin: 2026-02-17 17:24:33+00:00
+  - Ejemplo log: Feb 17 17:21:18 ubuntu-victima sshd[3756]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 48138 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 10 eventos correlacionados durante aproximadamente 3.6 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 10
+  - Inicio: 2026-02-17 17:15:16+00:00
+  - Fin: 2026-02-17 17:18:53+00:00
+  - Ejemplo log: Feb 17 17:17:14 ubuntu-victima sshd[3634]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 44592 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 9 eventos correlacionados durante aproximadamente 4.2 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 9
+  - Inicio: 2026-02-17 16:20:22+00:00
+  - Fin: 2026-02-17 16:24:32+00:00
+  - Ejemplo log: Feb 17 16:21:03 ubuntu-victima sshd[2435]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 39412 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 8 eventos correlacionados durante aproximadamente 3.2 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 8
+  - Inicio: 2026-02-17 17:00:51+00:00
+  - Fin: 2026-02-17 17:04:02+00:00
+  - Ejemplo log: Feb 17 17:00:51 ubuntu-victima sshd[3162]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 38686 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 8 eventos correlacionados durante aproximadamente 4.4 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 8
+  - Inicio: 2026-02-17 16:55:14+00:00
+  - Fin: 2026-02-17 16:59:37+00:00
+  - Ejemplo log: Feb 17 16:56:58 ubuntu-victima sshd[3049]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 43354 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 8 eventos correlacionados durante aproximadamente 2.6 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 8
+  - Inicio: 2026-02-17 16:05:10+00:00
+  - Fin: 2026-02-17 16:07:49+00:00
+  - Ejemplo log: Feb 17 16:05:26 ubuntu-victima sshd[2215]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 60950 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 7 eventos correlacionados durante aproximadamente 3.4 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 7
+  - Inicio: 2026-02-16 18:15:52+00:00
+  - Fin: 2026-02-16 18:19:17+00:00
+  - Ejemplo log: Feb 16 18:16:30 ubuntu-victima sshd[2714]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 41138 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 6 eventos correlacionados durante aproximadamente 3.5 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 6
+  - Inicio: 2026-02-17 13:26:05+00:00
+  - Fin: 2026-02-17 13:29:33+00:00
+  - Ejemplo log: Feb 17 13:26:56 ubuntu-victima sshd[4545]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 47614 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 6 eventos correlacionados durante aproximadamente 1.5 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 6
+  - Inicio: 2026-02-17 13:36:19+00:00
+  - Fin: 2026-02-17 13:37:47+00:00
+  - Ejemplo log: Feb 17 13:36:36 ubuntu-victima sshd[4857]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 48806 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 6 eventos correlacionados durante aproximadamente 3.2 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 6
+  - Inicio: 2026-02-16 18:46:35+00:00
+  - Fin: 2026-02-16 18:49:45+00:00
+  - Ejemplo log: Feb 16 18:47:51 ubuntu-victima sshd[3569]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 49182 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 5 eventos correlacionados durante aproximadamente 1.9 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 5
+  - Inicio: 2026-02-16 17:56:07+00:00
+  - Fin: 2026-02-16 17:58:02+00:00
+  - Ejemplo log: Feb 16 17:58:02 ubuntu-victima sshd[1865]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 39804 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 5 eventos correlacionados durante aproximadamente 1.6 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 5
+  - Inicio: 2026-02-17 16:03:16+00:00
+  - Fin: 2026-02-17 16:04:53+00:00
+  - Ejemplo log: Feb 17 16:03:16 ubuntu-victima sshd[2148]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 33612 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 5 eventos correlacionados durante aproximadamente 2.7 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 5
+  - Inicio: 2026-02-17 16:50:58+00:00
+  - Fin: 2026-02-17 16:53:40+00:00
+  - Ejemplo log: Feb 17 16:53:22 ubuntu-victima sshd[2875]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 38448 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 5 eventos correlacionados durante aproximadamente 4.2 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 5
+  - Inicio: 2026-02-16 18:20:01+00:00
+  - Fin: 2026-02-16 18:24:14+00:00
+  - Ejemplo log: Feb 16 18:20:01 ubuntu-victima sshd[2799]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 36122 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 5 eventos correlacionados durante aproximadamente 3.8 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 5
+  - Inicio: 2026-02-16 18:30:31+00:00
+  - Fin: 2026-02-16 18:34:17+00:00
+  - Ejemplo log: Feb 16 18:30:31 ubuntu-victima sshd[3085]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 44488 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 4 eventos correlacionados durante aproximadamente 3.5 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 4
+  - Inicio: 2026-02-17 12:31:03+00:00
+  - Fin: 2026-02-17 12:34:30+00:00
+  - Ejemplo log: Feb 17 12:31:03 ubuntu-victima sshd[4016]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 50378 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 4 eventos correlacionados durante aproximadamente 2.2 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 4
+  - Inicio: 2026-02-17 13:31:17+00:00
+  - Fin: 2026-02-17 13:33:28+00:00
+  - Ejemplo log: Feb 17 13:33:28 ubuntu-victima sshd[4750]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 56710 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 4 eventos correlacionados durante aproximadamente 4.3 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 4
+  - Inicio: 2026-02-16 18:10:15+00:00
+  - Fin: 2026-02-16 18:14:33+00:00
+  - Ejemplo log: Feb 16 18:11:48 ubuntu-victima sshd[2547]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 34880 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 4 eventos correlacionados durante aproximadamente 2.3 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 4
+  - Inicio: 2026-02-16 18:50:47+00:00
+  - Fin: 2026-02-16 18:53:04+00:00
+  - Ejemplo log: Feb 16 18:51:02 ubuntu-victima sshd[3656]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 56392 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 3 eventos correlacionados durante aproximadamente 1.5 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 3
+  - Inicio: 2026-02-16 18:37:11+00:00
+  - Fin: 2026-02-16 18:38:41+00:00
+  - Ejemplo log: Feb 16 18:37:11 ubuntu-victima sshd[3276]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 58334 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 3 eventos correlacionados durante aproximadamente 3.2 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 3
+  - Inicio: 2026-02-16 18:06:40+00:00
+  - Fin: 2026-02-16 18:09:54+00:00
+  - Ejemplo log: Feb 16 18:09:45 ubuntu-victima sshd[2498]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 34510 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 2 eventos correlacionados durante aproximadamente 1.1 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 2
+  - Inicio: 2026-02-16 18:25:50+00:00
+  - Fin: 2026-02-16 18:26:56+00:00
+  - Ejemplo log: Feb 16 18:25:50 ubuntu-victima sshd[2960]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 57814 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 2 eventos correlacionados durante aproximadamente 0.0 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 2
+  - Inicio: 2026-02-17 12:09:14+00:00
+  - Fin: 2026-02-17 12:09:14+00:00
+  - Ejemplo log: Feb 17 12:09:14 ubuntu-victima sshd[3824]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 34480 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 2 eventos correlacionados durante aproximadamente 0.3 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 2
+  - Inicio: 2026-02-17 12:28:08+00:00
+  - Fin: 2026-02-17 12:28:25+00:00
+  - Ejemplo log: Feb 17 12:28:25 ubuntu-victima sshd[3926]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 36692 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 2 eventos correlacionados durante aproximadamente 0.9 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 2
+  - Inicio: 2026-02-17 16:18:33+00:00
+  - Fin: 2026-02-17 16:19:28+00:00
+  - Ejemplo log: Feb 17 16:19:28 ubuntu-victima sshd[2391]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 47516 ssh2 [preauth]  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 2 eventos correlacionados durante aproximadamente 0.3 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 2
+  - Inicio: 2026-02-17 12:35:21+00:00
+  - Fin: 2026-02-17 12:35:42+00:00
+  - Ejemplo log: Feb 17 12:35:42 ubuntu-victima sshd[4148]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 53016 ssh2 [preauth]  root 
+
+Posible acceso exitoso tras fuerza bruta SSH desde 192.168.1.50 sobre el usuario vboxuser, con 1 eventos correlacionados durante aproximadamente 0.0 minutos. Esto podría indicar un compromiso exitoso del sistema.
+  - Tipo: Posible acceso exitoso tras fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Posible acceso SSH exitoso
+  - Eventos correlacionados: 1
+  - Inicio: 2026-02-17 17:28:42+00:00
+  - Fin: 2026-02-17 17:28:42+00:00
+  - Ejemplo log: Feb 17 17:28:42 ubuntu-victima sshd[3980]: Accepted password for vboxuser from 192.168.1.50 port 50194 ssh2  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 1 eventos correlacionados durante aproximadamente 0.0 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 1
+  - Inicio: 2026-02-17 11:15:19+00:00
+  - Fin: 2026-02-17 11:15:19+00:00
+  - Ejemplo log: Feb 17 11:15:19 ubuntu-victima sshd[2834]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 47784 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario root, con 1 eventos correlacionados durante aproximadamente 0.0 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: root
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 1
+  - Inicio: 2026-02-16 18:42:48+00:00
+  - Fin: 2026-02-16 18:42:48+00:00
+  - Ejemplo log: Feb 16 18:42:48 ubuntu-victima sshd[3432]: error: maximum authentication attempts exceeded for root from 192.168.1.50 port 44858 ssh2 [preauth]  root 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 1 eventos correlacionados durante aproximadamente 0.0 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 1
+  - Inicio: 2026-02-17 16:44:20+00:00
+  - Fin: 2026-02-17 16:44:20+00:00
+  - Ejemplo log: Feb 17 16:44:20 ubuntu-victima sshd[2647]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50  user=vboxuser  vboxuser 
+
+Posible fuerza bruta SSH desde 192.168.1.50 contra el usuario vboxuser, con 1 eventos correlacionados durante aproximadamente 0.0 minutos. Herramienta estimada: Brute force SSH.
+  - Tipo: Posible fuerza bruta SSH
+  - IP origen: 192.168.1.50
+  - Usuario objetivo: vboxuser
+  - Herramienta estimada: Brute force SSH
+  - Eventos correlacionados: 1
+  - Inicio: 2026-02-17 17:32:45+00:00
+  - Fin: 2026-02-17 17:32:45+00:00
+  - Ejemplo log: Feb 17 17:32:45 ubuntu-victima sshd[4097]: error: maximum authentication attempts exceeded for vboxuser from 192.168.1.50 port 48370 ssh2 [preauth]  vboxuser 
+
