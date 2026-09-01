@@ -11,3 +11,6 @@ venv/
 
 *.rar
 *.zip
+.env
+*.pem
+*.key
